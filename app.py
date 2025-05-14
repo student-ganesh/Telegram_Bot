@@ -63,6 +63,8 @@ async def handle_message(update: Update , context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     token = os.getenv("TELEGRAM_API_KEY")
+    if not token:
+        raise ValueError("Telegram bot token not set in environment variables.")
     app = Application.builder().token(token).build()
 
     app.add_handler(CommandHandler("start", start))
