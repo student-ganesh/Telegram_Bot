@@ -35,7 +35,9 @@ pip install -r requirements.txt
 
 ---
 
+'''
 ## 📸 Screenshot
 
 ![Telegram Bot Screenshot](https://github.com/user-attachments/assets/5d9879bc-7b4f-4b59-90a7-dc2cba36b49e)
+'''
 
