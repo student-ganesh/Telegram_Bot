@@ -30,10 +30,11 @@ A fun, fast, and interactive Telegram bot that delivers AI-generated jokes in re
 git clone https://github.com/student-ganesh/telegram-jokes-bot.git
 cd telegram-jokes-bot
 
----
-2. Install Dependencies
+### 2. Install Dependencies
 pip install -r requirements.txt
 
-📸 Screenshot
+---
+
+## 📸 Screenshot
 
 <img width="876" height="745" alt="image" src="https://github.com/user-attachments/assets/0fd6ebfe-bbfe-447f-859b-24f0af18c5ce" />
