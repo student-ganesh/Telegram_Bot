@@ -37,7 +37,5 @@ pip install -r requirements.txt
 
 ## 📸 Screenshot
 
-
-<img width="879" height="747" alt="Screenshot 2025-07-13 134716" src="https://github.com/user-attachments/assets/5d9879bc-7b4f-4e3c-9d9a-13e0d6c753f2" />
-
+![Telegram Bot Screenshot](https://github.com/user-attachments/assets/5d9879bc-7b4f-4b59-90a7-dc2cba36b49e)
 
