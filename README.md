@@ -33,7 +33,4 @@ cd telegram-jokes-bot
 pip install -r requirements
 
 📸 Screenshot
-
-
 <img width="879" height="747" alt="Screenshot 2025-07-13 134716" src="https://github.com/user-attachments/assets/563f8cc1-8c3d-4497-8ee0-b3c2cc83e19e" />
-
